@@ -1,4 +1,4 @@
-exports.data=[
+module.exports=[
         {
           "id": 1,
           "name": "Leanne Graham",
