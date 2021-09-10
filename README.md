@@ -10,7 +10,8 @@ HOW TO RUN THE APPLICATION
 To run this application you should have NODEJS installed along with npm.
 
 Open the root directory in the terminal and
-1. run the commands given below
+1. you have to clone this repository
+2. run the commands given below`
 ```js
 npm i
 node index.js
