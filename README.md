@@ -10,8 +10,7 @@ HOW TO RUN THE APPLICATION
 To run this application you should have NODEJS installed along with npm.
 
 Open the root directory in the terminal and
-1. Create a file named .env and setup a PORT variable to 5001 (PORT=5001)
-2. run the commands given below
+1. run the commands given below
 ```js
 npm i
 node index.js
